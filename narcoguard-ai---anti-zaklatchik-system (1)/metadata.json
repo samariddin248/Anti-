@@ -1,0 +1,6 @@
+
+{
+  "name": "NarcoGuard AI - Anti-Zaklatchik System",
+  "description": "A high-tech monitoring dashboard for detecting suspicious drug-related activities using AI-integrated surveillance cameras.",
+  "requestFramePermissions": ["camera"]
+}
